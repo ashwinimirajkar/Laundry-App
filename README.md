@@ -1,7 +1,7 @@
 # Laundry-App
 This app is specially designed for peoples who don't go outside for laundry in weekends.
 
-Features:
+#### Features:
   1. Track the laundry boy location
   2. Rate the laundry
   3. Message and phone
