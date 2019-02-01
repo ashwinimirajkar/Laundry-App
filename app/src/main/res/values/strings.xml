@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Laundry App</string>
+
+    <string name="only_iron">Only Iron</string>
+    <string name="wash_and_iron">Wash &amp; Iron</string>
+    <string name="dry_cleaning">Dry Cleaning</string>
+    <string name="account">Account</string>
+    <string name="two_days">2 Days</string>
+    <string name="three_days">3 Days</string>
+    <string name="user_name">Ashwini</string>
+    <string name="laundry">Laundry</string>
+
+</resources>
